@@ -1,8 +1,8 @@
 <div align="center">
-## Hi there, I'm Vanessa 👋
-🚀 Fullstack Developer | Java | Python | React | JavaScript | AWS |  
+## Hi there, I'm Vanessa 👋  <br>
+🚀 Fullstack Developer | Java | Python | React | JavaScript | AWS |  <br>  
 
-I am a mechanical engineer and software developer with experience in **E-commerce**, **SaaS** and **web applications** projects. I am passionate about building scalable solutions and keep learning new technologies. 
+I am a mechanical engineer and software developer with experience in **E-commerce**, **SaaS** and **web applications** projects. I am passionate about building scalable solutions and keep learning new technologies.  <br>
 
 ### 🚀 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
