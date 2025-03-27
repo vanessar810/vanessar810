@@ -1,6 +1,6 @@
 <div align="center">
-## Hi there, I'm Vanessa 👋  <br>
-🚀 Fullstack Developer | Java | Python | React | JavaScript | AWS |  <br>  
+# Hi there, I'm Vanessa 👋  <br> <br>
+🚀 Fullstack Developer | Java | Python | React | JavaScript | AWS |  <br>   <br>
 
 I am a mechanical engineer and software developer with experience in **E-commerce**, **SaaS** and **web applications** projects. I am passionate about building scalable solutions and keep learning new technologies.  <br>
 
@@ -12,7 +12,7 @@ I am a mechanical engineer and software developer with experience in **E-commerc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-316192?style=for-the-badge&logo=javascript&logoColor=white)
 
-### 📫 Contact:
+### 📫 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanessa-ruiz-gomez/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessaruiz810@gmail.com)
 
