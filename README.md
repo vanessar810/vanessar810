@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Vanessa 👋
+🚀 Fullstack Developer | Java | Python | React | JavaScript | AWS |  
 
+I am a mechanical engineer and software developer with experience in **E-commerce**, **SaaS** and **web applications** projects. I am passionate about building scalable solutions and keep learning new technologies. 
+
+### 🚀 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📫 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu_perfil/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+🚀 I am currently **looking for opportunities as a Fullstack Developer** Let's talk!
 <!--
 **vanessar810/vanessar810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
