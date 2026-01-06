@@ -18,7 +18,6 @@ I am a mechanical engineer and software developer with experience in **E-commerc
 
 🚀 I am currently **looking for opportunities as a Fullstack Developer** Let's talk! <br> <br> <br> <br>
 
-**(https://github-readme-stats.vercel.app/api/top-langs/?username=vanessar810&layout=compact&v=2)
 </div>
 <!--
 **vanessar810/vanessar810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
