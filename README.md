@@ -18,7 +18,7 @@ I am a mechanical engineer and software developer with experience in **E-commerc
 
 🚀 I am currently **looking for opportunities as a Fullstack Developer** Let's talk! <br> <br> <br> <br>
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=vanessar810&layout=compact&theme=radical
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessar810&layout=compact
 )
 </div>
 <!--
